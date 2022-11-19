@@ -9,7 +9,7 @@ package Map;
  *
  * @author maato
  */
-public class TD_MAP {
+public class MAP {
 
     /**
      * @param args the command line arguments
